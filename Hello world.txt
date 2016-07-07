@@ -5,3 +5,4 @@ if(true)
 else
   console.log('Nooooo!');
 console.log('Hello!');
+console.log("Hello my dear friend");
