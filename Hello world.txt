@@ -1,9 +1,10 @@
-console.log('Hello World!!!');
-console.log('Hello everybody');
+console.log('Hello World!!!');?
+console.log('Hello everybody');?
 if(true)
-  console.log('Ha-Ha!');
+  console.log('Ha-Ha!');?
 else
-  console.log('Nooooo!');
-console.log('Hello!');
+  console.log('Nooooo!');?
+console.log('Hello!');?
 console.log("Hello my dear friend");
 console.log("Glad to see you");
+
