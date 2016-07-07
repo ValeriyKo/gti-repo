@@ -4,3 +4,4 @@ if(true)
   console.log('Ha-Ha!');
 else
   console.log('Nooooo!');
+console.log('Hello!');
